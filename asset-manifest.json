@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/propflow/static/js/main.72f4e7ad.js",
-    "index.html": "/propflow/index.html",
-    "main.72f4e7ad.js.map": "/propflow/static/js/main.72f4e7ad.js.map"
+    "main.js": "/PropFlow/static/js/main.72f4e7ad.js",
+    "index.html": "/PropFlow/index.html",
+    "main.72f4e7ad.js.map": "/PropFlow/static/js/main.72f4e7ad.js.map"
   },
   "entrypoints": [
     "static/js/main.72f4e7ad.js"
